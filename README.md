@@ -26,7 +26,7 @@ Python server that connects to IB TWS and executes orders
 2. python (python3 -m venv venv)
 3. [ibapi](https://interactivebrokers.github.io/){:target="_blank"} (python3 IBJts/source/pythonclient/setup.py install)
 4. flask (pip install flask)
-5. [ngrok](https://ngrok.com/download){:target="_blank"}
+5. <a href="https://ngrok.com/download" target="_blank">ngrok</a>
 7. [IB TWS](https://www.interactivebrokers.com/en/trading/tws.php#tws-software){:target="_blank"}
 8. Google Apps Script
 9. TradingView
