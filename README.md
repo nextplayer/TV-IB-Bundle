@@ -36,7 +36,7 @@ Python server that connects to IB TWS and executes orders
 1. Deploy `tv-to-gas.gs` and `gas-to-ib.gs` to Google Apps Script  
 2. Start IB TWS/Gateway
 3. Run `ib_tws_standby.py`
-4. Start ngrok: `ngrok http 5001`
+4. Run `ngrok http http://127.0.0.1:5001`
 5. Update webhook URLs in TradingView and Google Apps Script
 
 ## Supported Orders
