@@ -1,6 +1,6 @@
 # TradingView to IB TWS Order System
-Easiest Way to Bundle TradingView and Interactive Brokers Trader Workstation.
-A simple system to place orders with webhook alerts.
+Easiest Way to Bundle TradingView and Interactive Brokers Trader Workstation.  
+Simplest system to place orders with webhook alerts.
 
 ### 1. tv-to-gas.gs
 Google Apps Script that receives webhook alerts from TradingView
