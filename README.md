@@ -28,6 +28,11 @@ Python server that connects to IB TWS and executes orders
 4. ngrok
 5. google apps script
 
+## Installation
+- pip install ibapi flask
+- [Ngrok](https://ngrok.com/download)
+- [IB TWS](https://www.interactivebrokers.com/)
+
 ## Setup
 
 1. Deploy `tv-to-gas.gs` and `gas-to-ib.gs` to Google Apps Script
