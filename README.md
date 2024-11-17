@@ -22,7 +22,7 @@ Python server that connects to IB TWS and executes orders
 - Handles both market and limit orders
 
 ## Environment
-1. VSCode or Cursor (`install python3`)
+1. VSCode (`install python3`)
 2. python (`python3 -m venv venv`)
 3. [ibapi](https://interactivebrokers.github.io/) (`python3 IBJts/source/pythonclient/setup.py install`)
 4. flask (`pip install flask`)
